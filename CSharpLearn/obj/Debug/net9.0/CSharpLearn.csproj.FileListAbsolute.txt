@@ -12,3 +12,4 @@ E:\CompSci\CSharpLearn\obj\Debug\net9.0\refint\CSharpLearn.dll
 E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.pdb
 E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.genruntimeconfig.cache
 E:\CompSci\CSharpLearn\obj\Debug\net9.0\ref\CSharpLearn.dll
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.sourcelink.json

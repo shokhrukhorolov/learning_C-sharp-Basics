@@ -1,4 +1,5 @@
 ﻿using System;
+using CSharpLearn;
 using CSharpLearn.DataTypes;
 
 class Program
@@ -7,5 +8,6 @@ class Program
     {
         Integers.Nums();
         Strings.text();
+        BoolDoubleChar.datatypesall();
     }
 }
