@@ -1,0 +1,14 @@
+E:\CompSci\CSharpLearn\bin\Debug\net9.0\CSharpLearn.exe
+E:\CompSci\CSharpLearn\bin\Debug\net9.0\CSharpLearn.deps.json
+E:\CompSci\CSharpLearn\bin\Debug\net9.0\CSharpLearn.runtimeconfig.json
+E:\CompSci\CSharpLearn\bin\Debug\net9.0\CSharpLearn.dll
+E:\CompSci\CSharpLearn\bin\Debug\net9.0\CSharpLearn.pdb
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.GeneratedMSBuildEditorConfig.editorconfig
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.AssemblyInfoInputs.cache
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.AssemblyInfo.cs
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.csproj.CoreCompileInputs.cache
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.dll
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\refint\CSharpLearn.dll
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.pdb
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\CSharpLearn.genruntimeconfig.cache
+E:\CompSci\CSharpLearn\obj\Debug\net9.0\ref\CSharpLearn.dll
