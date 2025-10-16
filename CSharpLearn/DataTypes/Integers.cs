@@ -6,7 +6,7 @@ namespace CSharpLearn.DataTypes
         {
             int a = 10;
             int b = 5;
-            Console.WriteLine($"Сумма: {a + b}");
+            Console.WriteLine($"Сумма: {a + b}. This is given number");
         }
     }
 }
