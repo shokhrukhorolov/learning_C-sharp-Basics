@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CompSci\\CSharpLearn\\CSharpLearn.csproj": {}
+    "E:\\CompSci\\csharplearn\\CSharpLearn.csproj": {}
   },
   "projects": {
-    "E:\\CompSci\\CSharpLearn\\CSharpLearn.csproj": {
+    "E:\\CompSci\\csharplearn\\CSharpLearn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CompSci\\CSharpLearn\\CSharpLearn.csproj",
+        "projectUniqueName": "E:\\CompSci\\csharplearn\\CSharpLearn.csproj",
         "projectName": "CSharpLearn",
-        "projectPath": "E:\\CompSci\\CSharpLearn\\CSharpLearn.csproj",
+        "projectPath": "E:\\CompSci\\csharplearn\\CSharpLearn.csproj",
         "packagesPath": "C:\\Users\\shoxs\\.nuget\\packages\\",
-        "outputPath": "E:\\CompSci\\CSharpLearn\\obj\\",
+        "outputPath": "E:\\CompSci\\csharplearn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shoxs\\AppData\\Roaming\\NuGet\\NuGet.Config"
